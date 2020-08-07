@@ -2,7 +2,7 @@
 
 Repository linking to all challenges I've done on [DevChallenges.io]. 🎉
 
-My DevChallanges [profile]. 😎
+My DevChallenges [profile]. 😎
 
 
 [devchallenges.io]: https://devchallenges.io/
