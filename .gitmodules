@@ -1,0 +1,9 @@
+[submodule "404"]
+	path = 404
+	url = https://github.com/thinkverse/404-challenge
+[submodule "team"]
+	path = team
+	url = https://github.com/thinkverse/team-challenge/
+[submodule "interior"]
+	path = interior
+	url = https://github.com/thinkverse/interior-challenge
