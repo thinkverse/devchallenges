@@ -4,7 +4,7 @@ Repository linking to all challenges I've done on [DevChallenges.io]. 🎉
 
 ### Links
 
-😎 My DevChallenges [profile].
+😎 My DevChallenges [profile]. <br>
 📃 [Article] about this repository.
 
 [devchallenges.io]: https://devchallenges.io/
