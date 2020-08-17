@@ -10,3 +10,6 @@
 [submodule "recipe"]
 	path = recipe
 	url = https://github.com/thinkverse/recipe-challenge
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/thinkverse/gallery-challenge
