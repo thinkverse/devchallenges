@@ -13,3 +13,6 @@
 [submodule "gallery"]
 	path = gallery
 	url = https://github.com/thinkverse/gallery-challenge
+[submodule "checkout"]
+	path = checkout
+	url = https://github.com/thinkverse/checkout-challenge
